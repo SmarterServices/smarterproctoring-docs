@@ -28,6 +28,36 @@
         "title": "Updating Account Information (General/Profile Photo/Passwords)",
         "url": "/support/solutions/articles/27000042046-updating-account-information-general-profile-photo-passwords-"
       }
+    ],
+    "learner": [
+      {
+        "title": "Scheduling a Face to Face Proctor Session",
+        "url": "/support/solutions/articles/27000040175-scheduling-a-face-to-face-proctor"
+      }, {
+        "title": "Scheduling a B Virtual Session",
+        "url": "/support/solutions/articles/27000046656-scheduling-a-b-virtual-session"
+      }, {
+        "title": "Scheduling an Instructor as a Proctor Session",
+        "url": "/support/solutions/articles/27000040176-scheduling-an-instructor-as-a-proctor"
+      }, {
+        "title": "Start a Session (B Virtual)",
+        "url": "/support/solutions/articles/27000043478-start-a-session-b-virtual-"
+      }, {
+        "title": "Start a Session (VTC)",
+        "url": "/support/solutions/articles/27000043477-start-a-session-vtc-"
+      }, {
+        "title": "How to Cancel a Session",
+        "url": "/support/solutions/articles/27000043245-how-to-cancel-a-session"
+      }, {
+        "title": "How to Reschedule a Session (B Virtual)",
+        "url": "/support/solutions/articles/27000043246-how-to-reschedule-a-session-b-virtual-"
+      }, {
+        "title": "How to Message your Instructor",
+        "url": "/support/solutions/articles/27000043248-how-to-message-your-instructor"
+      }, {
+        "title": "How to Submit a Help Ticket",
+        "url": "/support/solutions/articles/27000043247-how-to-submit-a-help-ticket"
+      }
     ]
   },
   "messages": {
