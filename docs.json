@@ -6,7 +6,10 @@
         "title": "Account Set Up Guide",
         "url": "/support/solutions/articles/27000039721-account-set-up-guide"
       }
-    ]
+    ],
+    "learner": [],
+    "instructor": [],
+    "administrator": []
   },
   "@feature-dashboard": "============== Dashboard ==============",
   "dashboard": {
@@ -63,7 +66,27 @@
         "title": "How to Submit a Help Ticket",
         "url": "/support/solutions/articles/27000043247-how-to-submit-a-help-ticket"
       }
-    ]
+    ],
+    "instructor": [],
+    "administrator": []
+  },
+  "@feature-schedule": "============== Schedule ==============",
+  "schedule": {
+    "proctor": [],
+    "learner": [
+      {
+        "title": "Scheduling a Face to Face Proctor Session",
+        "url": "/support/solutions/articles/27000040175-scheduling-a-face-to-face-proctor"
+      }, {
+        "title": "Scheduling a B Virtual Session",
+        "url": "/support/solutions/articles/27000046656-scheduling-a-b-virtual-session"
+      }, {
+        "title": "Scheduling an Instructor as a Proctor Session",
+        "url": "/support/solutions/articles/27000040176-scheduling-an-instructor-as-a-proctor"
+      }
+    ],
+    "instructor": [],
+    "administrator": []
   },
   "@feature-messages": "============== Messages ==============",
   "messages": {
@@ -81,7 +104,9 @@
         "title": "How to Message your Instructor",
         "url": "/support/solutions/articles/27000043248-how-to-message-your-instructor"
       }
-    ]
+    ],
+    "instructor": [],
+    "administrator": []
   },
   "@feature-sessions": "============== Sessions ==============",
   "sessions": {
@@ -99,7 +124,10 @@
         "title": "Ad-Hoc Proctor Session Guide",
         "url": "/support/solutions/articles/27000049085-ad-hoc-proctor-session-guide"
       }
-    ]
+    ],
+    "learner": [],
+    "instructor": [],
+    "administrator": []
   },
   "@feature-locations": "============== Locations ==============",
   "locations": {
@@ -111,7 +139,10 @@
         "title": "Setting up Pricing",
         "url": "/support/solutions/articles/27000042044-setting-up-pricing"
       }
-    ]
+    ],
+    "learner": [],
+    "instructor": [],
+    "administrator": []
   },
   "@feature-payments": "============== Payments ==============",
   "payments": {
@@ -123,7 +154,10 @@
         "title": "Setting up Pricing",
         "url": "/support/solutions/articles/27000042044-setting-up-pricing"
       }
-    ]
+    ],
+    "learner": [],
+    "instructor": [],
+    "administrator": []
   },
   "@feature-settings": "============== Settings ==============",
   "settings": {
@@ -133,6 +167,8 @@
         "url": "/support/solutions/articles/27000042046-updating-account-information-general-profile-photo-passwords-"
       }
     ],
-    "learner": []
+    "learner": [],
+    "instructor": [],
+    "administrator": []
   }
 }
