@@ -1,0 +1,88 @@
+{
+  "onboarding": {
+    "proctor": [
+      {
+        "title": "Account Set Up Guide",
+        "url": "/support/solutions/articles/27000039721-account-set-up-guide"
+      }
+    ]
+  },
+  "dashboard": {
+    "proctor": [
+      {
+        "title": "Accepting a Session",
+        "url": "/support/solutions/articles/27000039739-accepting-a-session"
+      }, {
+        "title": "Viewing Session Details",
+        "url": "/support/solutions/articles/27000042047-viewing-session-details"
+      }, {
+        "title": "Adding Additional Proctor Locations",
+        "url": "/support/solutions/articles/27000039740-adding-additional-proctor-locations"
+      }, {
+        "title": "Setting up Pricing",
+        "url": "/support/solutions/articles/27000042044-setting-up-pricing"
+      }, {
+        "title": "Accepting Payment(s)",
+        "url": "/support/solutions/articles/27000042045-accepting-payment-s-"
+      }, {
+        "title": "Updating Account Information (General/Profile Photo/Passwords)",
+        "url": "/support/solutions/articles/27000042046-updating-account-information-general-profile-photo-passwords-"
+      }
+    ]
+  },
+  "messages": {
+    "proctor": [
+      {
+        "title": "Accepting a Session",
+        "url": "/support/solutions/articles/27000039739-accepting-a-session"
+      }
+    ]
+  },
+  "sessions": {
+    "proctor": [
+      {
+        "title": "Viewing Session Details",
+        "url": "/support/solutions/articles/27000042047-viewing-session-details"
+      }, {
+        "title": "Reporting Incidents",
+        "url": "/support/solutions/articles/27000042048-reporting-incidents-"
+      }, {
+        "title": "Closing Sessions",
+        "url": "/support/solutions/articles/27000042049-closing-sessions"
+      }, {
+        "title": "Ad-Hoc Proctor Session Guide",
+        "url": "/support/solutions/articles/27000049085-ad-hoc-proctor-session-guide"
+      }
+    ]
+  },
+  "locations": {
+    "proctor": [
+      {
+        "title": "Adding Additional Proctor Locations",
+        "url": "/support/solutions/articles/27000039740-adding-additional-proctor-locations"
+      }, {
+        "title": "Setting up Pricing",
+        "url": "/support/solutions/articles/27000042044-setting-up-pricing"
+      }
+    ]
+  },
+  "payments": {
+    "proctor": [
+      {
+        "title": "Accepting Payment(s)",
+        "url": "/support/solutions/articles/27000042045-accepting-payment-s-"
+      }, {
+        "title": "Setting up Pricing",
+        "url": "/support/solutions/articles/27000042044-setting-up-pricing"
+      }
+    ]
+  },
+  "settings": {
+    "proctor": [
+      {
+        "title": "Updating Account Information (General/Profile Photo/Passwords)",
+        "url": "/support/solutions/articles/27000042046-updating-account-information-general-profile-photo-passwords-"
+      }
+    ]
+  }
+}
