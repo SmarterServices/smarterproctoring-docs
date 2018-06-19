@@ -32,6 +32,9 @@
       }, {
         "title": "Updating Account Information (General/Profile Photo/Passwords)",
         "url": "/support/solutions/articles/27000042046-updating-account-information-general-profile-photo-passwords-"
+      }, {
+        "title": "Supported Browsers",
+        "url": "/solutions/articles/27000044101-supported-browsers"
       }
     ],
     "learner": [
@@ -67,7 +70,21 @@
         "url": "/support/solutions/articles/27000043247-how-to-submit-a-help-ticket"
       }
     ],
-    "instructor": [],
+    "instructor": [
+      {
+        "title": "Setting up an Exam",
+        "url": "/support/solutions/articles/27000039500-setting-up-an-exam"
+      }, {
+        "title": "Setting up a Pencil & Paper Exam",
+        "url": "/support/solutions/articles/27000044760-setting-up-a-pencil-paper-exam"
+      }, {
+        "title": "Submitting Change Requests for Locked Exams",
+        "url": "/support/solutions/articles/27000046543-submitting-change-requests-for-locked-exams"
+      }, {
+        "title": "Supported Browsers",
+        "url": "/support/solutions/articles/27000044099-supported-browsers"
+      }
+    ],
     "administrator": []
   },
   "@feature-schedule": "============== Schedule ==============",
