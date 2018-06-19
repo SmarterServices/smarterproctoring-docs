@@ -1,4 +1,5 @@
 {
+  "@feature-onboarding": "============== Onboarding ==============",
   "onboarding": {
     "proctor": [
       {
@@ -7,6 +8,7 @@
       }
     ]
   },
+  "@feature-dashboard": "============== Dashboard ==============",
   "dashboard": {
     "proctor": [
       {
@@ -55,19 +57,33 @@
         "title": "How to Message your Instructor",
         "url": "/support/solutions/articles/27000043248-how-to-message-your-instructor"
       }, {
+        "title": "Supported Browsers",
+        "url": "/support/solutions/articles/27000044098-supported-browsers"
+      }, {
         "title": "How to Submit a Help Ticket",
         "url": "/support/solutions/articles/27000043247-how-to-submit-a-help-ticket"
       }
     ]
   },
+  "@feature-messages": "============== Messages ==============",
   "messages": {
     "proctor": [
       {
         "title": "Accepting a Session",
         "url": "/support/solutions/articles/27000039739-accepting-a-session"
       }
+    ],
+    "learner": [
+      {
+        "title": "Scheduling a Face to Face Proctor Session",
+        "url": "/support/solutions/articles/27000040175-scheduling-a-face-to-face-proctor"
+      }, {
+        "title": "How to Message your Instructor",
+        "url": "/support/solutions/articles/27000043248-how-to-message-your-instructor"
+      }
     ]
   },
+  "@feature-sessions": "============== Sessions ==============",
   "sessions": {
     "proctor": [
       {
@@ -85,6 +101,7 @@
       }
     ]
   },
+  "@feature-locations": "============== Locations ==============",
   "locations": {
     "proctor": [
       {
@@ -96,6 +113,7 @@
       }
     ]
   },
+  "@feature-payments": "============== Payments ==============",
   "payments": {
     "proctor": [
       {
@@ -107,6 +125,7 @@
       }
     ]
   },
+  "@feature-settings": "============== Settings ==============",
   "settings": {
     "proctor": [
       {
