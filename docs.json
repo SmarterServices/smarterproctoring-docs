@@ -105,6 +105,36 @@
     "instructor": [],
     "administrator": []
   },
+  "@feature-exams": "============== Exams ==============",
+  "exams": {
+    "proctor": [],
+    "learner": [],
+    "instructor": [
+      {
+        "title": "Setting up an Exam",
+        "url": "/support/solutions/articles/27000039500-setting-up-an-exam"
+      }, {
+        "title": "Setting up a Pencil & Paper Exam",
+        "url": "/support/solutions/articles/27000044760-setting-up-a-pencil-paper-exam"
+      }, {
+        "title": "Submitting Change Requests for Locked Exams",
+        "url": "/support/solutions/articles/27000046543-submitting-change-requests-for-locked-exams"
+      }, {
+        "title": "Setting up an Accommodation",
+        "url": "/support/solutions/articles/27000039502-setting-up-an-accommodation-"
+      }, {
+        "title": "Viewing Exam Session Details",
+        "url": "/support/solutions/articles/27000039503-viewing-exam-session-details"
+      }, {
+        "title": "Adding an AD-Hoc Proctor",
+        "url": "/support/solutions/articles/27000043590-adding-an-ad-hoc-proctor"
+      }, {
+        "title": "Incident Report Color System",
+        "url": "/support/solutions/articles/27000039788-incident-report-color-system"
+      }
+    ],
+    "administrator": []
+  },
   "@feature-messages": "============== Messages ==============",
   "messages": {
     "proctor": [
