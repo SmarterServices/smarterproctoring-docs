@@ -85,7 +85,36 @@
         "url": "/support/solutions/articles/27000044099-supported-browsers"
       }
     ],
-    "administrator": []
+    "administrator": [
+      {
+        "title": "Initial Account Setup",
+        "url": "/support/solutions/articles/27000042967-initial-account-setup"
+      }, {
+        "title": "Approving a Proctor",
+        "url": "/support/solutions/articles/27000039506-approving-a-proctor"
+      }, {
+        "title": "Approving an Exam",
+        "url": "/support/solutions/articles/27000039507-approving-an-exam"
+      }, {
+        "title": "Creating Session Reports",
+        "url": "/support/solutions/articles/27000049172-creating-session-reports"
+      }, {
+        "title": "Setting up Proctor Groups",
+        "url": "/support/solutions/articles/27000040177-setting-up-proctor-groups"
+      }, {
+        "title": "Setting up Vouchers",
+        "url": "/support/solutions/articles/27000043585-setting-up-vouchers"
+      }, {
+        "title": "Setting Up Blackout Dates",
+        "url": "/support/solutions/articles/27000047992-setting-up-blackout-dates"
+      }, {
+        "title": "Pre-Approving Proctors",
+        "url": "/support/solutions/articles/27000048649-pre-approving-proctors"
+      }, {
+        "title": "Supported Browsers",
+        "url": "/support/solutions/articles/27000044100-supported-browsers"
+      }
+    ]
   },
   "@feature-schedule": "============== Schedule ==============",
   "schedule": {
