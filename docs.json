@@ -105,6 +105,12 @@
         "title": "Setting up Vouchers",
         "url": "/support/solutions/articles/27000043585-setting-up-vouchers"
       }, {
+        "title": "Setting up Institution Funding Rules",
+        "url": "/support/solutions/articles/27000043480-setting-up-institution-funding-rules"
+      }, {
+        "title": "Setting Up Course Specific Funding Rules",
+        "url": "/support/solutions/articles/27000049168-setting-up-course-specific-funding-rules"
+      }, {
         "title": "Setting Up Blackout Dates",
         "url": "/support/solutions/articles/27000047992-setting-up-blackout-dates"
       }, {
@@ -164,6 +170,30 @@
     ],
     "administrator": []
   },
+  "@feature-examApprovals": "============== Exam Approvals ==============",
+  "examApprovals": {
+    "proctor": [],
+    "learner": [],
+    "instructor": [],
+    "administrator": [
+      {
+        "title": "Approving an Exam",
+        "url": "/support/solutions/articles/27000039507-approving-an-exam"
+      }
+    ]
+  },
+  "@feature-reports": "============== Reports ==============",
+  "reports": {
+    "proctor": [],
+    "learner": [],
+    "instructor": [],
+    "administrator": [
+      {
+        "title": "Reports Breakdown",
+        "url": "/support/solutions/articles/27000046958-reports-breakdown"
+      }
+    ]
+  },
   "@feature-messages": "============== Messages ==============",
   "messages": {
     "proctor": [
@@ -183,6 +213,57 @@
     ],
     "instructor": [],
     "administrator": []
+  },
+  "@feature-vouchers": "============== Vouchers ==============",
+  "vouchers": {
+    "proctor": [],
+    "learner": [],
+    "instructor": [],
+    "administrator": [
+      {
+        "title": "Setting up Vouchers",
+        "url": "/support/solutions/articles/27000043585-setting-up-vouchers"
+      }
+    ]
+  },
+  "@feature-fundingRules": "============== Funding Rules ==============",
+  "fundingRules": {
+    "proctor": [],
+    "learner": [],
+    "instructor": [],
+    "administrator": [
+      {
+        "title": "Setting up Institution Funding Rules",
+        "url": "/support/solutions/articles/27000043480-setting-up-institution-funding-rules"
+      }, {
+        "title": "Setting Up Course Specific Funding Rules",
+        "url": "/support/solutions/articles/27000049168-setting-up-course-specific-funding-rules"
+      }
+    ]
+  },
+  "@feature-blackoutDates": "============== Blackout Dates ==============",
+  "blackoutDates": {
+    "proctor": [],
+    "learner": [],
+    "instructor": [],
+    "administrator": [
+      {
+        "title": "Setting Up Blackout Dates",
+        "url": "/support/solutions/articles/27000047992-setting-up-blackout-dates"
+      }
+    ]
+  },
+  "@feature-proctorSearch": "============== Proctor Search ==============",
+  "proctorSearch": {
+    "proctor": [],
+    "learner": [],
+    "instructor": [],
+    "administrator": [
+      {
+        "title": "Pre-Approving Proctors",
+        "url": "/support/solutions/articles/27000048649-pre-approving-proctors"
+      }
+    ]
   },
   "@feature-sessions": "============== Sessions ==============",
   "sessions": {
@@ -245,6 +326,26 @@
     ],
     "learner": [],
     "instructor": [],
-    "administrator": []
+    "administrator": [
+      {
+        "title": "Initial Account Setup",
+        "url": "/support/solutions/articles/27000042967-initial-account-setup"
+      }, {
+        "title": "Setting up Proctor Groups",
+        "url": "/support/solutions/articles/27000040177-setting-up-proctor-groups"
+      }
+    ]
+  },
+  "@feature-ledger": "============== Ledger ==============",
+  "ledger": {
+    "proctor": [],
+    "learner": [],
+    "instructor": [],
+    "administrator": [
+      {
+        "title": "Creating Session Reports",
+        "url": "/support/solutions/articles/27000049172-creating-session-reports"
+      }
+    ]
   }
 }
