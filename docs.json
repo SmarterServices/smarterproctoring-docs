@@ -15,6 +15,9 @@
   "dashboard": {
     "proctor": [
       {
+        "title": "Proctor Dashboard Layout",
+        "url": "/support/solutions/articles/27000048879-proctor-dashboard-layout"
+      }, {
         "title": "Accepting a Session",
         "url": "/support/solutions/articles/27000039739-accepting-a-session"
       }, {
@@ -26,6 +29,9 @@
       }, {
         "title": "Setting up Pricing",
         "url": "/support/solutions/articles/27000042044-setting-up-pricing"
+      }, {
+        "title": "Setting up School-Specific Pricing",
+        "url": "/support/solutions/articles/27000048559-setting-up-school-specific-pricing"
       }, {
         "title": "Accepting Payment(s)",
         "url": "/support/solutions/articles/27000042045-accepting-payment-s-"
@@ -295,6 +301,9 @@
       }, {
         "title": "Setting up Pricing",
         "url": "/support/solutions/articles/27000042044-setting-up-pricing"
+      }, {
+        "title": "Setting up School-Specific Pricing",
+        "url": "/support/solutions/articles/27000048559-setting-up-school-specific-pricing"
       }
     ],
     "learner": [],
