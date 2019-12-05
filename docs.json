@@ -4,7 +4,7 @@
     "proctor": [
       {
         "title": "Account Set Up Guide",
-        "url": "/support/solutions/articles/27000039721-account-set-up-guide"
+        "url": "articles/360021744792-Account-Set-Up-Guide"
       }
     ],
     "learner": [],
@@ -16,115 +16,103 @@
     "proctor": [
       {
         "title": "Proctor Dashboard Layout",
-        "url": "/support/solutions/articles/27000048879-proctor-dashboard-layout"
+        "url": "articles/360021744712-Proctor-Dashboard-Layout"
       }, {
         "title": "Accepting a Session",
-        "url": "/support/solutions/articles/27000039739-accepting-a-session"
+        "url": "articles/360021744412-Accepting-a-Session"
       }, {
         "title": "Viewing Session Details",
-        "url": "/support/solutions/articles/27000042047-viewing-session-details"
+        "url": "articles/360021964031-Viewing-Session-Details"
       }, {
         "title": "Adding Additional Proctor Locations",
-        "url": "/support/solutions/articles/27000039740-adding-additional-proctor-locations"
+        "url": "articles/360021744732-Adding-Additional-Proctor-Locations"
       }, {
         "title": "Setting up Pricing",
-        "url": "/support/solutions/articles/27000042044-setting-up-pricing"
+        "url": "articles/360021744592-Setting-up-Pricing"
       }, {
         "title": "Setting up School-Specific Pricing",
-        "url": "/support/solutions/articles/27000048559-setting-up-school-specific-pricing"
+        "url": "articles/360021744492-Setting-up-School-Specific-Pricing"
       }, {
         "title": "Accepting Payment(s)",
-        "url": "/support/solutions/articles/27000042045-accepting-payment-s-"
+        "url": "articles/360021964191-Accepting-Payment-s-"
       }, {
         "title": "Updating Account Information (General/Profile Photo/Passwords)",
-        "url": "/support/solutions/articles/27000042046-updating-account-information-general-profile-photo-passwords-"
+        "url": "articles/360021964151-Updating-Account-Information-General-Profile-Photo-Passwords-"
       }, {
         "title": "Supported Browsers",
-        "url": "/solutions/articles/27000044101-supported-browsers"
+        "url": "articles/360021743412-Supported-Browsers"
       }
     ],
     "learner": [
       {
         "title": "Scheduling a Face to Face Proctor Session",
-        "url": "/support/solutions/articles/27000040175-scheduling-a-face-to-face-proctor"
-      }, {
-        "title": "Scheduling a B Virtual Session",
-        "url": "/support/solutions/articles/27000046656-scheduling-a-b-virtual-session"
+        "url": "articles/360021229112-Scheduling-a-Face-to-Face-Proctor"
       }, {
         "title": "Scheduling an Instructor as a Proctor Session",
-        "url": "/support/solutions/articles/27000040176-scheduling-an-instructor-as-a-proctor"
-      }, {
-        "title": "Start a Session (B Virtual)",
-        "url": "/support/solutions/articles/27000043478-start-a-session-b-virtual-"
-      }, {
-        "title": "Start a Session (VTC)",
-        "url": "/support/solutions/articles/27000043477-start-a-session-vtc-"
+        "url": "articles/360021229792-Scheduling-a-Session-with-an-Instructor-as-a-Proctor"
       }, {
         "title": "How to Cancel a Session",
-        "url": "/support/solutions/articles/27000043245-how-to-cancel-a-session"
-      }, {
-        "title": "How to Reschedule a Session (B Virtual)",
-        "url": "/support/solutions/articles/27000043246-how-to-reschedule-a-session-b-virtual-"
+        "url": "articles/360021475951-How-to-Cancel-a-Session"
       }, {
         "title": "How to Message your Instructor",
-        "url": "/support/solutions/articles/27000043248-how-to-message-your-instructor"
+        "url": "articles/360021476351-How-to-Message-your-Instructor"
       }, {
         "title": "Supported Browsers",
-        "url": "/support/solutions/articles/27000044098-supported-browsers"
+        "url": "articles/360021230492-Supported-Browsers"
       }, {
         "title": "How to Submit a Help Ticket",
-        "url": "/support/solutions/articles/27000043247-how-to-submit-a-help-ticket"
+        "url": "articles/360021476011-How-to-Submit-a-Help-Ticket"
       }
     ],
     "instructor": [
       {
         "title": "Setting up an Exam",
-        "url": "/support/solutions/articles/27000039500-setting-up-an-exam"
+        "url": "articles/360021746132-Setting-up-an-Online-Exam"
       }, {
         "title": "Setting up a Pencil & Paper Exam",
-        "url": "/support/solutions/articles/27000044760-setting-up-a-pencil-paper-exam"
+        "url": "articles/360021966351-Setting-up-a-Written-Exam"
       }, {
         "title": "Submitting Change Requests for Locked Exams",
-        "url": "/support/solutions/articles/27000046543-submitting-change-requests-for-locked-exams"
+        "url": "articles/360020409171-Submitting-Change-Requests-for-Locked-Exams"
       }, {
         "title": "Supported Browsers",
-        "url": "/support/solutions/articles/27000044099-supported-browsers"
+        "url": "articles/360021314092-Supported-Browsers"
       }
     ],
     "administrator": [
       {
         "title": "Initial Account Setup",
-        "url": "/support/solutions/articles/27000042967-initial-account-setup"
+        "url": "articles/360021962091-Initial-Account-Setup"
       }, {
         "title": "Approving a Proctor",
-        "url": "/support/solutions/articles/27000039506-approving-a-proctor"
+        "url": "articles/360021742532-Approving-a-Proctor"
       }, {
         "title": "Approving an Exam",
-        "url": "/support/solutions/articles/27000039507-approving-an-exam"
+        "url": "articles/360021742512-Approving-an-Exam"
       }, {
         "title": "Creating Session Reports",
-        "url": "/support/solutions/articles/27000049172-creating-session-reports"
+        "url": "articles/360021961751-Creating-Session-Reports"
       }, {
         "title": "Setting up Proctor Groups",
-        "url": "/support/solutions/articles/27000040177-setting-up-proctor-groups"
+        "url": "articles/360022157051-Setting-up-Proctor-Groups"
       }, {
         "title": "Setting up Vouchers",
-        "url": "/support/solutions/articles/27000043585-setting-up-vouchers"
+        "url": "articles/360022059332-Setting-up-Vouchers"
       }, {
         "title": "Setting up Institution Funding Rules",
-        "url": "/support/solutions/articles/27000043480-setting-up-institution-funding-rules"
+        "url": "articles/360022059252-Setting-up-Institution-Funding-Rules"
       }, {
         "title": "Setting Up Course Specific Funding Rules",
-        "url": "/support/solutions/articles/27000049168-setting-up-course-specific-funding-rules"
+        "url": "articles/360022242551-Setting-Up-Course-Specific-Funding-Rules"
       }, {
         "title": "Setting Up Blackout Dates",
-        "url": "/support/solutions/articles/27000047992-setting-up-blackout-dates"
+        "url": "articles/360022242391-Setting-Up-Blackout-Dates"
       }, {
         "title": "Pre-Approving Proctors",
-        "url": "/support/solutions/articles/27000048649-pre-approving-proctors"
+        "url": "articles/360022059432-Pre-Approving-Proctors"
       }, {
         "title": "Supported Browsers",
-        "url": "/support/solutions/articles/27000044100-supported-browsers"
+        "url": "articles/360021742392-Supported-Browsers"
       }
     ]
   },
@@ -134,13 +122,10 @@
     "learner": [
       {
         "title": "Scheduling a Face to Face Proctor Session",
-        "url": "/support/solutions/articles/27000040175-scheduling-a-face-to-face-proctor"
-      }, {
-        "title": "Scheduling a B Virtual Session",
-        "url": "/support/solutions/articles/27000046656-scheduling-a-b-virtual-session"
+        "url": "articles/360021229112-Scheduling-a-Face-to-Face-Proctor"
       }, {
         "title": "Scheduling an Instructor as a Proctor Session",
-        "url": "/support/solutions/articles/27000040176-scheduling-an-instructor-as-a-proctor"
+        "url": "articles/360021229792-Scheduling-a-Session-with-an-Instructor-as-a-Proctor"
       }
     ],
     "instructor": [],
@@ -153,25 +138,25 @@
     "instructor": [
       {
         "title": "Setting up an Exam",
-        "url": "/support/solutions/articles/27000039500-setting-up-an-exam"
+        "url": "articles/360021746132-Setting-up-an-Online-Exam"
       }, {
         "title": "Setting up a Pencil & Paper Exam",
-        "url": "/support/solutions/articles/27000044760-setting-up-a-pencil-paper-exam"
+        "url": "articles/360021966351-Setting-up-a-Written-Exam"
       }, {
         "title": "Submitting Change Requests for Locked Exams",
-        "url": "/support/solutions/articles/27000046543-submitting-change-requests-for-locked-exams"
+        "url": "articles/360020409171-Submitting-Change-Requests-for-Locked-Exams"
       }, {
         "title": "Setting up an Accommodation",
-        "url": "/support/solutions/articles/27000039502-setting-up-an-accommodation-"
+        "url": "articles/360021316292-Setting-up-an-Accommodation"
       }, {
         "title": "Viewing Exam Session Details",
-        "url": "/support/solutions/articles/27000039503-viewing-exam-session-details"
+        "url": "articles/360021318952-Viewing-Exam-Session-Details"
       }, {
         "title": "Adding an AD-Hoc Proctor",
-        "url": "/support/solutions/articles/27000043590-adding-an-ad-hoc-proctor"
+        "url": "articles/360021554351-Adding-an-AD-Hoc-Proctor"
       }, {
         "title": "Incident Report Color System",
-        "url": "/support/solutions/articles/27000039788-incident-report-color-system"
+        "url": "articles/360023388112-Incident-Report-Walkthrough"
       }
     ],
     "administrator": []
@@ -184,7 +169,7 @@
     "administrator": [
       {
         "title": "Approving an Exam",
-        "url": "/support/solutions/articles/27000039507-approving-an-exam"
+        "url": "articles/360021742512-Approving-an-Exam"
       }
     ]
   },
@@ -196,7 +181,7 @@
     "administrator": [
       {
         "title": "Reports Breakdown",
-        "url": "/support/solutions/articles/27000046958-reports-breakdown"
+        "url": "articles/360021961911-Reports-Breakdown"
       }
     ]
   },
@@ -205,16 +190,16 @@
     "proctor": [
       {
         "title": "Accepting a Session",
-        "url": "/support/solutions/articles/27000039739-accepting-a-session"
+        "url": "articles/360021744412-Accepting-a-Session"
       }
     ],
     "learner": [
       {
         "title": "Scheduling a Face to Face Proctor Session",
-        "url": "/support/solutions/articles/27000040175-scheduling-a-face-to-face-proctor"
+        "url": "articles/360021229112-Scheduling-a-Face-to-Face-Proctor"
       }, {
         "title": "How to Message your Instructor",
-        "url": "/support/solutions/articles/27000043248-how-to-message-your-instructor"
+        "url": "articles/360021476351-How-to-Message-your-Instructor"
       }
     ],
     "instructor": [],
@@ -228,7 +213,7 @@
     "administrator": [
       {
         "title": "Setting up Vouchers",
-        "url": "/support/solutions/articles/27000043585-setting-up-vouchers"
+        "url": "articles/360022059332-Setting-up-Vouchers"
       }
     ]
   },
@@ -240,10 +225,10 @@
     "administrator": [
       {
         "title": "Setting up Institution Funding Rules",
-        "url": "/support/solutions/articles/27000043480-setting-up-institution-funding-rules"
+        "url": "articles/360022059252-Setting-up-Institution-Funding-Rules"
       }, {
         "title": "Setting Up Course Specific Funding Rules",
-        "url": "/support/solutions/articles/27000049168-setting-up-course-specific-funding-rules"
+        "url": "articles/360022242551-Setting-Up-Course-Specific-Funding-Rules"
       }
     ]
   },
@@ -255,7 +240,7 @@
     "administrator": [
       {
         "title": "Setting Up Blackout Dates",
-        "url": "/support/solutions/articles/27000047992-setting-up-blackout-dates"
+        "url": "articles/360022242391-Setting-Up-Blackout-Dates"
       }
     ]
   },
@@ -267,7 +252,7 @@
     "administrator": [
       {
         "title": "Pre-Approving Proctors",
-        "url": "/support/solutions/articles/27000048649-pre-approving-proctors"
+        "url": "articles/360022059432-Pre-Approving-Proctors"
       }
     ]
   },
@@ -276,16 +261,16 @@
     "proctor": [
       {
         "title": "Viewing Session Details",
-        "url": "/support/solutions/articles/27000042047-viewing-session-details"
+        "url": "articles/360021964031-Viewing-Session-Details"
       }, {
         "title": "Reporting Incidents",
-        "url": "/support/solutions/articles/27000042048-reporting-incidents-"
+        "url": "articles/360021744252-Reporting-Incidents"
       }, {
         "title": "Closing Sessions",
-        "url": "/support/solutions/articles/27000042049-closing-sessions"
+        "url": "articles/360021963951-Closing-Sessions"
       }, {
         "title": "Ad-Hoc Proctor Session Guide",
-        "url": "/support/solutions/articles/27000049085-ad-hoc-proctor-session-guide"
+        "url": "articles/360021744032-Ad-Hoc-Proctor-Session-Guide"
       }
     ],
     "learner": [],
@@ -297,13 +282,13 @@
     "proctor": [
       {
         "title": "Adding Additional Proctor Locations",
-        "url": "/support/solutions/articles/27000039740-adding-additional-proctor-locations"
+        "url": "articles/360021744732-Adding-Additional-Proctor-Locations"
       }, {
         "title": "Setting up Pricing",
-        "url": "/support/solutions/articles/27000042044-setting-up-pricing"
+        "url": "articles/360021744592-Setting-up-Pricing"
       }, {
         "title": "Setting up School-Specific Pricing",
-        "url": "/support/solutions/articles/27000048559-setting-up-school-specific-pricing"
+        "url": "articles/360021744492-Setting-up-School-Specific-Pricing"
       }
     ],
     "learner": [],
@@ -315,10 +300,10 @@
     "proctor": [
       {
         "title": "Accepting Payment(s)",
-        "url": "/support/solutions/articles/27000042045-accepting-payment-s-"
+        "url": "articles/360021964191-Accepting-Payment-s-"
       }, {
         "title": "Setting up Pricing",
-        "url": "/support/solutions/articles/27000042044-setting-up-pricing"
+        "url": "articles/360021744592-Setting-up-Pricing"
       }
     ],
     "learner": [],
@@ -330,7 +315,7 @@
     "proctor": [
       {
         "title": "Updating Account Information (General/Profile Photo/Passwords)",
-        "url": "/support/solutions/articles/27000042046-updating-account-information-general-profile-photo-passwords-"
+        "url": "articles/360021964151-Updating-Account-Information-General-Profile-Photo-Passwords-"
       }
     ],
     "learner": [],
@@ -338,10 +323,10 @@
     "administrator": [
       {
         "title": "Initial Account Setup",
-        "url": "/support/solutions/articles/27000042967-initial-account-setup"
+        "url": "articles/360021962091-Initial-Account-Setup"
       }, {
         "title": "Setting up Proctor Groups",
-        "url": "/support/solutions/articles/27000040177-setting-up-proctor-groups"
+        "url": "articles/360022157051-Setting-up-Proctor-Groups"
       }
     ]
   },
@@ -353,7 +338,7 @@
     "administrator": [
       {
         "title": "Creating Session Reports",
-        "url": "/support/solutions/articles/27000049172-creating-session-reports"
+        "url": "articles/360021961751-Creating-Session-Reports"
       }
     ]
   }
